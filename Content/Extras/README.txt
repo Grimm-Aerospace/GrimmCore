@@ -32,7 +32,6 @@ BDBKerbalismScienceUpdate TODO
 ==============================
 
 1) add remaining experiments
-2) synchronize Keyhole experiments
-3) fix AGTV experiments and their overlap with non-AGTV
+2) fix AGTV experiments and their overlap with non-AGTV
 
 
