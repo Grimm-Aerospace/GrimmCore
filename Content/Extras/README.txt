@@ -25,3 +25,12 @@ KFLateRepulsors - moves Kerbal Foundries repulsors to a new 4000 science node in
 KPBSMKSCentrifuge - changes Kerbal Planetary Base Systems nuclear centrifuge to behave like the one in MKS
 
 ShowAllTechTreeNodes - make sure to show all tech nodes regardless of other mods configs
+
+
+
+BDBKerbalismScienceUpdate TODO
+==============================
+
+1) add remaining experiments
+2) synchronize Keyhole experiments
+3) fix AGTV experiments and their overlap with non-AGTV
