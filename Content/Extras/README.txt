@@ -14,7 +14,7 @@ BDBContractsFix - increases max simultaneous contracts, so that Apollo mission a
 
 BDBCryoTanks - replaces BDB boiloff with CryoTanks boiloff (now part of BDB)
 
-BDBKerbalismScienceUpdate - adds (some) missing Kerbalism science definitions for BDB. Work in progress.
+BDBKerbalismScienceUpdate - adds (some) missing Kerbalism science definitions for BDB. Work in progress. Currently Keyhole and some other early satellites are supported (Nimbus, OGO) while ABTV experiments are broken by this patch.
 
 CNCJNSQStations - adds CommNetConstellation ground station definitions for JNSQ. Now part of JNSQ. Known issues: 1) Do not change default Ground Station enable/disable settings in base/KK settings pages as it bugs out CNC. 2) Stock Kerbin DSN names appear in flight for some stations, this is just a visual issue and has no gameplay consequences.
 
