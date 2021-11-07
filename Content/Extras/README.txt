@@ -26,12 +26,18 @@ KPBSMKSCentrifuge - changes Kerbal Planetary Base Systems nuclear centrifuge to 
 
 ShowAllTechTreeNodes - make sure to show all tech nodes regardless of other mods configs
 
+USIB9TankTypes - B9PartSwitch tank types for USI mods. WIP
+
+USIMalemuteB9Patch - 1.12+ wheels, B9 tanks for Malemute rover
 
 
-BDBKerbalismScienceUpdate TODO
-==============================
 
-1) add remaining experiments
+TODO
+====
+
+1) add remaining experiments for BDB/Kerbalism
 2) fix AGTV experiments and their overlap with non-AGTV
+3) add MKS tank types for B9
+4) convert remaining USI mods from FS to B9PS
 
 
