@@ -1,0 +1,1 @@
+Copy the contents from your KSP's installation's KSP_x64_Data/Managed folder here in order to enable compilation.
